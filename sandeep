@@ -1,4 +1,4 @@
-first line
+
 sandeep file 
 Git branch branchname
 Git checkout branchname
@@ -11,4 +11,4 @@ Git rebase branch-name
 Git revert cid
 Git branch –d  branch-name
 Git push origin –d branch-name
-just adding
+
