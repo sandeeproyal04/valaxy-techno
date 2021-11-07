@@ -1,0 +1,17 @@
+Git config –global –unset alias.aliasname
+Git config –global –unset user.name
+Git config –global –unset user.email
+Git commit –amend –m “new name”
+Stash memory :::: temporary storage area
+Git stash 
+Git stash save “stash1”
+Git stash list
+Git stash show –p stash-name
+Git stash pop 
+Git stash apply ----it will maintain the files in both stash memory and staging area
+Vi  .gitignore
+File1 
+File2
+File3
+File4
+File5 
